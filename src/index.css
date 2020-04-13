@@ -4,19 +4,19 @@ body {
 		sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background: #553055;
+	background: #ffffff;
 }
 .App {
-	background: #4c2a4c;
+	background: #c0c0c0;
 	margin: 20px auto;
 	width: 90%;
 	max-width: 700px;
-	color: #eee;
+	color: #ffffff;
 }
 .navbar {
 	padding: 10px 20px;
 	text-align: center;
-	background: #6d3d6d;
+	background: #ff0000;
 }
 .navbar h1 {
 	margin: 10px 0;
@@ -62,8 +62,8 @@ input[type='text'] {
 	padding: 10px;
 	box-sizing: border-box;
 	margin: 6px 0;
-	background: #3c1f3c;
-	color: #fff;
+	background: #f0ffff;
+	color: #000000;
 	border: 0;
 }
 input[type='submit'] {
